@@ -361,7 +361,7 @@ footer{
 @media (max-width: 419px){
     p#hide2{
         display: block;
-        font-size:3.3vw;
+        font-size:3.0vw;
         font-weight: 80;
         max-width: 100%;
         overflow: hidden;
